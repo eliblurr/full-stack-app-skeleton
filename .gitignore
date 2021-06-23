@@ -1,0 +1,11 @@
+venv/
+.history/
+*.pyc
+*.log
+__pycache__/
+node_modules/
+.env
+*.png
+*.jpeg
+*.jpg
+static/
